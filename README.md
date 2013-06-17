@@ -1,4 +1,4 @@
 jgh.github.io
 =============
 
-Jeremy Github Pages Repository
+Jeremy's Github Pages Repository
